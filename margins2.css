@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+
+<!-- Basic CSS Example -->
+
+<html lang="en-us">
+<head>
+  <meta charset="UTF-8">
+  <title>Basic CSS Example</title>
+
+  <!-- Introducing the Style Tag! -->
+  <!-- ========================== -->
+
+  <!-- Now you can customize the look of your sites. Each rule in the style tag changes the appearance of elements matching the selector -->
+<style>
+.{background-color: teal;}
