@@ -6,6 +6,10 @@ I created a visualization dashboard website using visualizations I created in ht
 
 In building this dashboard, I create individual pages for each plot and a means by which they can be navigated. These pages contain the visualizations and their corresponding trends, if any. Also included is a landing page, a page where we can see a comparison of all of the plots, and another page that contains the data used to build them.(https://settinge.github.io/table.html)
 
+## How to Run Code
+
+1. Navigate to https://settinge.github.io/Landing.html and click on various tabs in the navigation bar
+
 ### Website Details
 
 The website consisted of 7 pages total, including:
