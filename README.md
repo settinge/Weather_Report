@@ -44,7 +44,7 @@ Finally, the website was deployed to GitHub pages https://settinge.github.io/ind
 
 Above is a screenshot of the home page. This page contains high level information about the project
 
-![ScreenShot](Humidity_and_Lat.JPG)
+![ScreenShot](Humidity_Lat.JPG)
 
 Above is a screenshot of a scatterplot that demonstrates the relationship between Humidity and Latitude. A scatterplot was used to see if there was any high level correlation between the two variables.
 
