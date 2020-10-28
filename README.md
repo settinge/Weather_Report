@@ -38,3 +38,17 @@ The website, at the top of every page, has a navigation menu that:
 * Is responsive (using media queries).
 
 Finally, the website was deployed to GitHub pages https://settinge.github.io/index.html.
+
+## Screenshots
+![ScreenShot](Home.JPG)
+
+Above is a screenshot of the home page. This page contains high level information about the project
+
+![ScreenShot](Humidity_and_Lat.JPG)
+
+Above is a screenshot of a scatterplot that demonstrates the relationship between Humidity and Latitude. A scatterplot was used to see if there was any high level correlation between the two variables.
+
+![ScreenShot](Data.JPG)
+
+This is a screenshot of the "Data" tab that is parsed JSON containing various weather metrics for each city that was returned by the API.
+
